@@ -1,0 +1,17 @@
+{
+  "name": "tecambio",
+  "version": "1.0.0",
+  "description": "Back-End TeCambio",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sardila13",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "browser-sync": "^2.26.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}
